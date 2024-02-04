@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ID
+{
+    background-color: rgb(75, 74, 74);
+    height: 100px;
+    color: white;
+    padding-top: 60px;
+}
+
+.ID span
+{
+    display: block;
+    text-align: center;
+    width: 100px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.continue
+{
+    width: 80px;
+    display: flex;
+    border: none;
+    background-color:#5B92E5;
+    color: white;
+    padding: 10px 30px;
+    margin: 20px auto;
+    text-decoration: none;
+    border-radius: 60px;
+}
